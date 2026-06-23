@@ -3,7 +3,7 @@
 A full-stack Book Exchange platform built using MongoDB, Express.js, React.js (Vite), and Node.js. 
 Features include real-time geolocation-based book matching, debounced searches, user authentication, and a complete trade request lifecycle.
 
-🌐 **Live Demo:** [https://book-store-mern-proj-epbq6trtj-tanishibisens-projects.vercel.app/](https://book-store-mern-proj-epbq6trtj-tanishibisens-projects.vercel.app/)
+🌐 **Live Demo:** [https://book-store-mern-proj.vercel.app/](https://book-store-mern-proj.vercel.app/)
 
 ---
 
